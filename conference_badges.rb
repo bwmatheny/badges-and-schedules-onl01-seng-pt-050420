@@ -8,3 +8,7 @@ def batch_badge_creator(attendees)
   attendees.each {|name| batch_badges << "Hello, my name is #{name}."}
   batch_badges
 end
+
+def assign_rooms(attendees)
+  
+end
